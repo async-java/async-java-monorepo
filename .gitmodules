@@ -2,3 +2,7 @@
 	path = apps/async-java-sidecar.rs
 	url = https://github.com/async-java/async-java-sidecar.rs.git
 	branch = main
+[submodule "apps/async-java-mcp-server.rs"]
+	path = apps/async-java-mcp-server.rs
+	url = https://github.com/async-java/async-java-mcp-server.rs.git
+	branch = main
