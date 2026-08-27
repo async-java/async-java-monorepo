@@ -1,0 +1,4 @@
+[submodule "apps/async-java-sidecar.rs"]
+	path = apps/async-java-sidecar.rs
+	url = https://github.com/async-java/async-java-sidecar.rs.git
+	branch = main
