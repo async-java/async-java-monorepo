@@ -1,0 +1,11 @@
+[package]
+org = "async-java"
+name = "async-java-monorepo"
+version = "0.1.0"
+description = "App-of-apps workspace for async-java"
+license = "MIT"
+language = "rust"
+
+[package.repository]
+vcs = "git"
+url = "https://github.com/async-java/async-java-monorepo"
